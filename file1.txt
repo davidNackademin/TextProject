@@ -1,3 +1,4 @@
 // en text fil av David
 
-Det var en gång en varg som bodde i skogen.
+Det var en gång en varg  som hette Åke och bodde i skogen.
+
